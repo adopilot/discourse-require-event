@@ -1,0 +1,7 @@
+bs_BA:
+  site_settings:
+    require_event_enabled: "Obavezan događaj u novim temama u odabranim kategorijama"
+    require_event_categories: "Kategorije u kojima svaka nova tema mora sadržavati događaj"
+  require_event:
+    missing_event: "Svaka tema u ovoj kategoriji mora sadržavati događaj. Dodajte događaj s datumom (ikonica kalendara u alatnoj traci editora)."
+    cannot_remove_event: "Događaj se ne može ukloniti iz teme u ovoj kategoriji."

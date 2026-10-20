@@ -1,0 +1,7 @@
+en:
+  site_settings:
+    require_event_enabled: "Require an event in new topics in the selected categories"
+    require_event_categories: "Categories in which every new topic must contain an event"
+  require_event:
+    missing_event: "Every topic in this category must contain an event. Add an event with a date (the calendar icon in the editor toolbar)."
+    cannot_remove_event: "The event cannot be removed from a topic in this category."

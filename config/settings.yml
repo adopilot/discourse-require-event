@@ -1,0 +1,6 @@
+discourse_require_event:
+  require_event_enabled:
+    default: false
+  require_event_categories:
+    type: category_list
+    default: ""
