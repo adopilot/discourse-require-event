@@ -5,7 +5,6 @@
 # version: 0.1.0
 # authors: Robot d.o.o.
 # url: https://github.com/adopilot/discourse-require-event
-# required_version: 2026.10.0
 
 enabled_site_setting :require_event_enabled
 
